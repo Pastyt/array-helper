@@ -1,0 +1,19 @@
+{
+  "name": "array-helper",
+  "version": "1.0.0",
+  "description": "Array helper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pastyt/array-helper.git"
+  },
+  "author": "Pavel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pastyt/array-helper/issues"
+  },
+  "homepage": "https://github.com/Pastyt/array-helper#readme"
+}
